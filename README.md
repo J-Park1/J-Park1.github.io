@@ -1,3 +1,10 @@
-<h1>Portfolio Page</h1>
+# About
 
-This was created to start my learning on GitHub and HTML! I will slowly be adding and updating it in order to showcase all that I'm learning!
+This is a portfolio of the projects I worked on during my full-stack development course!
+
+## Projects
+<ul>
+  <li><a href="https://jacquelinepark.github.io/PacMen/">PacMen</a></li>
+  <li><a href="https://jacquelinepark.github.io/Eyes/">Eyes</a></li>
+  <li><a href="https://jacquelinepark.github.io/BusTracker/">Bus Tracker</a></li>
+</ul>
